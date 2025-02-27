@@ -1,0 +1,12 @@
+/build/
+/dist/
+nbproject/private/
+nbproject/build-impl.xml
+nbactions.xml
+nbactions-private.xml
+*.class
+*.jar
+*.log
+/.netbeans/
+.cache/
+.DS_Store
